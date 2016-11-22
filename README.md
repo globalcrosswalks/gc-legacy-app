@@ -1,2 +1,2 @@
 # gc-legacy-app
-PHP MySQL
+PHP MySQL / BootStrap
